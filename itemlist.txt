@@ -1,0 +1,7 @@
+AUD=
+EUR=
+VOD.L
+IBM.N
+GOOG.O
+SCB.BK
+0005.Hk
