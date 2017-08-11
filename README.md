@@ -9,7 +9,7 @@ Eg. set EMAInstall="C:\Projects\API\EMA"
 
 ## Linux
 Open makefile and change ROOTPLAT to EMA Install path.
-export ROOTPLAT="/home/Projects/API/EMA"
+Eg. export ROOTPLAT="/home/Projects/API/EMA"
 
 ##Usage
 ```
