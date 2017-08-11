@@ -8,7 +8,7 @@ set environment variable name EMAInstall to  <EMA install dir> before open the s
 Eg. set EMAInstall="C:\Projects\API\EMA"
 
 ## Linux
-Open makefile and change ROOTPLAT to <EMA install dir>
+Open makefile and change ROOTPLAT to EMA Install path.
 export ROOTPLAT="/home/Projects/API/EMA"
 
 ##Usage
